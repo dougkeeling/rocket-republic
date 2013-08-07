@@ -1,0 +1,7 @@
+TO DO:
+
+- Styles on mobile menu, make generic.
+- Make MediaElement.js work in theme
+- Then try to make it responsive
+- Make search/filter: Speaker, Series, Book
+- CPT: Ministries, Staff, Resources

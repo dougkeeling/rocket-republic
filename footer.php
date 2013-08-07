@@ -1,0 +1,14 @@
+	<footer>       
+		<a class="rocket" href="http://rocketrepublic.com"><img width="37" height="8" title="Custom Website Design" alt="Rocket Republic" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAICAYAAAB+rDbrAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoxMDE4Qjk5MEMyMjA2ODExODIyQUMwNjUzM0EwNzBFQSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBRUUzQ0FGQTk0OEQxMUUyOTVGMEZCNjA0MTUzNDNDMyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBRUUzQ0FGOTk0OEQxMUUyOTVGMEZCNjA0MTUzNDNDMyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RTc4Q0RFQkExMTIxNjgxMTgyMkFDMDY1MzNBMDcwRUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MTAxOEI5OTBDMjIwNjgxMTgyMkFDMDY1MzNBMDcwRUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4pS7QHAAAA8UlEQVR42qyUOwrCQBRFEzVGRfcgChI1hb21LsHawtre9MkCrN2Jm7CIX0TcgxL/nztwBwJqIGMuHN7khXm/mUR3XVf7UwaogQZogjqxwA20wezXZsdxPnyZGMlzTGSxAJu2GhFH+C9xu/wWrMDEdqhrMYEKSMWMPwZLlaK6oMOuRQFloGvJ6ApaoecsmxZKg5LneSZsHkh71HGnBlgUwYmjDhjsAB4MIH1SPTBKqPAX2HOiCzAVk5ooBOor7HmCHZgz+Qr4wuKyB6oXXUoc8TDi/R1s2bnPAsR6Dc5Jf31SJo/aYLeyazmBDX8FynoLMABwnze6f77g/gAAAABJRU5ErkJggg==" /></a>
+	</footer>
+
+        
+	    <script>
+    	$('.something').anystretch("<?php bloginfo('template_directory'); ?>/exponential-west/img/exponential-west-header.jpg");
+        </script>
+
+        <?php wp_footer(); ?>
+
+    </body>
+    
+</html>
